@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Claddie beta</title><item><title>Claddie build 165</title><sparkle:version>165</sparkle:version><sparkle:shortVersionString>0.1.0 (165)</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion><enclosure url="https://github.com/NNG10/claddie-releases/releases/download/beta-build-165/Claddie-beta-165.zip" length="94406814" type="application/octet-stream" sparkle:edSignature="Iq2ulMjQCxxCcqNMqHaFCzjdBi7HMWCwrPwPYv6jI1sea1+fvREbEOyvLvvkNtCi36m7RPowlVq9O7ztYlqsCg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: GhvzvHLAsJi+rPsLHFK+CgFx6Y/Ax01qwA4L2FWTFnVn55Lb114Y3Q1mL8oGhiTwFfx6kc1ilCiM7V/G3IZ6BA==
+length: 932
+-->
